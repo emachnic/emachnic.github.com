@@ -1,0 +1,16 @@
+@import 'reset.css';
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 62.5%;
+  margin: 2em auto;
+  width: 96em;
+}
+
+h1 {
+  font-size: 3.0em;
+}
+
+h2 {
+  font-size: 2.6em;
+}
